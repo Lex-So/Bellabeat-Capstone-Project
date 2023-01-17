@@ -2,7 +2,7 @@
 title: "Bellabeat Capstone Project"
 author: "Alexandra Sewell"
 date: "`r Sys.Date()`"
-output: output: github_document
+output: rmarkdown::github_document
 
 ---
 
