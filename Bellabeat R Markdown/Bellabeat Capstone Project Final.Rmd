@@ -2,8 +2,8 @@
 title: "Bellabeat Capstone Project"
 author: "Alexandra Sewell"
 date: "`r Sys.Date()`"
-output:
-html_document: default
+output: output: github_document
+
 ---
 
 ## Case Study: How Can a Wellness Technology Company Play It Smart?
